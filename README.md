@@ -18,6 +18,9 @@ Paginação dos dados da API
 Certifique-se de que você tenha as seguintes ferramentas instaladas antes de executar o projeto:
 
 Java Development Kit (JDK)
+
 Spring Boot
+
 Maven
+
 Banco de dados de sua escolha (por exemplo, MySQL, PostgreSQL, H2, etc.)
