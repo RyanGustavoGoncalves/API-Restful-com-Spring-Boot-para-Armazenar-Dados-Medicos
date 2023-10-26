@@ -10,8 +10,6 @@ Integração com banco de dados para armazenar informações de médicos.
 
 Flyway como ferramenta de Migrations da API
 
-Validações utilizando o Bean Validation
-
 Paginação dos dados da API
 
 # 📝 Pré-requisitos
